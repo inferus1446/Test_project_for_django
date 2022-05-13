@@ -1,0 +1,2 @@
+# Test_project_for_django
+Test_project
